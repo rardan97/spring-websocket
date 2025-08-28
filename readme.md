@@ -26,3 +26,12 @@ mvn clean install
 ```
 mvn spring-boot:run
 ```
+
+# Frontend Project
+
+The BackEnd of this application can be accessed at the following link:
+
+```
+https://github.com/rardan97/react-websocket
+```
+
